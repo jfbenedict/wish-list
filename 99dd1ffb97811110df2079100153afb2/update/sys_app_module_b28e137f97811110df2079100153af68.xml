@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="Wish List">fe8e93fb97811110df2079100153afa3</application>
         <assessment/>
         <device_type/>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b28e137f97811110df2079100153af68</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_869837_wish_list">99dd1ffb97811110df2079100153afb2</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Wish List">99dd1ffb97811110df2079100153afb2</sys_scope>
         <sys_update_name>sys_app_module_b28e137f97811110df2079100153af68</sys_update_name>
         <sys_updated_by>jbenedict</sys_updated_by>
-        <sys_updated_on>2022-08-08 16:46:32</sys_updated_on>
+        <sys_updated_on>2022-08-08 16:51:05</sys_updated_on>
         <timeline_page/>
         <title>All</title>
         <uncancelable>false</uncancelable>
